@@ -1,1 +1,1 @@
-utility func for version 2
+Changed utility func for version 2
